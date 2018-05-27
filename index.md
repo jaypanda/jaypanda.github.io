@@ -5,11 +5,24 @@ I work in AI and deep learning, particularly in the domain of computer vision. C
 Previously, I co-founded [Wazzat Labs](https://wazzatlabs.com), a visual recognition startup, particularly focused on solving problems in fashion retail. I worked with [Dr. C. V. Jawahar](https://faculty.iiit.ac.in/~jawahar/) during my MS by Research at [IIIT Hyderabad](https://www.iiit.ac.in/) and also during the journey of Wazzat Labs.
 
 ### Experience and Project Highlights
-- **Fashion visual recognition at Wazzat Labs**
+- **Visual recognition at Wazzat Labs**
   - Led research and development of visual recognition solutions primarily aimed at product discovery and search for fashion e-tail.
   - Mobile visual search and social fashion lookup solutions.
+  - Demo videos (December 2014 to November 2016)
+    - Looks by Wazzat: Fashion visual recognition platform to showcase and discover shoppable fashion trends. 
+     [![demo-video-1](http://img.youtube.com/vi/piUho94HHGs/0.jpg)](https://youtu.be/piUho94HHGs)
+     [![demo-video-2](http://img.youtube.com/vi/5-XIM8-AAA0/0.jpg)](https://youtu.be/5-XIM8-AAA0)
+     [![demo-video-3](http://img.youtube.com/vi/GSoSFrIBWlo/0.jpg)](https://youtu.be/GSoSFrIBWlo)
+    - AR for automobile repair guide
+    [![demo-video-4](http://img.youtube.com/vi/6wNbNedBBVE/0.jpg)](https://youtu.be/6wNbNedBBVE)
+  
 - **Visual Intelligence at xpresso.ai**
   - Led research and development of visual intelligence engine for multi-platform conversational bots.
+  - Demo Videos (January 2017 to August 2017)
+    - Visual intelligence on FB messenger chatbot.
+    [![demo-video-5](http://img.youtube.com/vi/eoNM1pIeRl8/0.jpg)](https://youtu.be/eoNM1pIeRl8)
+    
+    
 
 ### Publications
 
