@@ -2,7 +2,7 @@
 
 I work in AI and deep learning, particularly in the domain of computer vision. Currently heading the computer vision group at [Abzooba, Inc.](https://xpresso.ai) where I build and deploy enterprise solutions in AI. 
 
-Previously, I co-founded [Wazzat Labs](https://wazzatlabs.com), a visual recognition startup, particularly focused on solving problems in fashion retail. I worked with [Dr. C. V. Jawahar](https://faculty.iiit.ac.in/~jawahar/) during my MS by Research at [IIIT Hyderabad](https://www.iiit.ac.in/) and also during the journey of Wazzat Labs.
+Previously, I co-founded [Wazzat Labs](https://wazzatlabs.com), a visual recognition startup, particularly focused on solving problems in fashion retail. I worked with [Dr. C. V. Jawahar](https://faculty.iiit.ac.in/~jawahar/) during my MS by Research at [IIIT Hyderabad](https://www.iiit.ac.in/) and also during the journey at Wazzat Labs.
 
 ### Experience and Project Highlights
 - **Visual Intelligence at xpresso.ai**
