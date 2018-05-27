@@ -14,12 +14,12 @@ Previously, I co-founded [Wazzat Labs](https://wazzatlabs.com), a visual recogni
 - **Visual recognition at Wazzat Labs**
   - Led research and development of visual recognition solutions primarily aimed at product discovery and search for fashion e-tail.
   - Mobile visual search and social fashion lookup solutions.
-  - Demo videos | Dec 2014 to Nov 2016
+  - Demo videos (click to play in Youtube), Dec 2014 to Nov 2016
     - Looks by Wazzat: Fashion visual recognition platform to showcase and discover shoppable fashion trends. 
      [![demo-video-1](http://img.youtube.com/vi/piUho94HHGs/0.jpg)](https://youtu.be/piUho94HHGs)
      [![demo-video-2](http://img.youtube.com/vi/5-XIM8-AAA0/0.jpg)](https://youtu.be/5-XIM8-AAA0)
      [![demo-video-3](http://img.youtube.com/vi/GSoSFrIBWlo/0.jpg)](https://youtu.be/GSoSFrIBWlo)
-    - AR for automobile repair guide | Jan to Mar 2014
+    - AR for automobile repair guide (click to play in Youtube), Jan to Mar 2014
     [![demo-video-4](http://img.youtube.com/vi/6wNbNedBBVE/0.jpg)](https://youtu.be/6wNbNedBBVE)
     
     
@@ -34,7 +34,7 @@ R Girdhar,  J Panda and C. V. Jawahar *In ACCV, 2014 at Singapore*
 J Panda, Michael S Brown and C. V. Jawahar *In ICCV, 2013 at Sydney, Australia* 
 [Project Page](http://researchweb.iiit.ac.in/~jayaguru.panda/PandaICCV13/) | 
   - Mobile instance retrieval requires a significant reduction in the visual index size. To achieve this, we describe a set of strategies that can reduce the visual index up to 150 × compared to a standard implementation of the instance retrieval solution, popularly implemented on desktops or servers. While these reduction steps affect the overall mean Average Precision (mAP), they are able to maintain a good Precision for the top K results (P_K ). We argue that for such offline application, maintaining a good P_K is sufficient. The effectiveness of this approach is demonstrated on several standard databases.
-  - Demo Video 
+  - Demo Video (click to play in Youtube)
   [![demo-video-6](https://researchweb.iiit.ac.in/~jayaguru.panda/PandaICCV13/AshmoleanUseCase.jpg)](https://youtu.be/P6oz597xmXs)
   
 3. **[Rich and Efficient Annotations for Large Photo Collections](http://web.iiit.ac.in/~jayaguru.pandaug08/Jay_ACPR_crc.pdf)**
@@ -45,7 +45,7 @@ J Panda and C.V. Jawahar *In ACPR, 2013 at Naha, Japan*
 J Panda, S Sharma and C. V. Jawahar *In ICVGIP, 2012 at Mumbai, India* 
 [Project Page](http://researchweb.iiit.ac.in/~jayaguru.panda/HeritageApp/) | 
   - In this paper, we demonstrate a computer vision application for instant auto-annotations on mobile phones. A tourist or a student, visits a heritage monument or site and is interested in specific artistic details of the structures. He/she queries the app with concerned images and the relevant information is returned as text (or even audio). There is no communication overhead or cost associated with such a search.
-  - Demo Video
+  - Demo Video (click to play in Youtube)
   [![demo-video-7](https://researchweb.iiit.ac.in/~jayaguru.panda/HeritageApp/caricature.jpg)](https://youtu.be/KPBYXEiIXQE)
   
 
