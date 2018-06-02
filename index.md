@@ -23,7 +23,8 @@ Previously, I co-founded [Wazzat Labs](https://wazzatlabs.com), a visual recogni
     [![demo-video-4](http://img.youtube.com/vi/6wNbNedBBVE/0.jpg)](https://youtu.be/6wNbNedBBVE)
 - **MASTER's Thesis**
   - [Instance Retrieval and Image Auto-Annotations on Mobile Devices](docs/JayThesis.pdf)
-    - Mobile instance retrieval requires a significant reduction in the visual search index and relevant optimization in efficient real-time image processing for feature extraction and search. To achieve this, we describe a set of strategies that can reduce the visual index up to 150 × compared to a standard implementation of the instance retrieval solution, popularly implemented on desktops or servers. While these reduction steps affect the overall mean Average Precision (mAP), they are able to maintain a good Precision for the top K results (P_K ). We argue that for such offline application, maintaining a good P_K is sufficient. The effectiveness of this approach is demonstrated on several standard databases.
+    [![use-case](docs/UseCase.jpg)]
+    - Mobile instance retrieval requires a significant reduction in the visual search index and relevant optimization in efficient real-time image processing for feature extraction and search. To achieve this, we describe a set of strategies that can reduce the visual index up to 150 × compared to a standard implementation of the instance retrieval solution, popularly implemented on desktops or servers. While these reduction steps affect the overall mean Average Precision (mAP), they are able to maintain a good Precision for the top K results (P_K). We argue that for such offline application, maintaining a good P_K is sufficient. The effectiveness of this approach is demonstrated on several standard databases.
     
 
 ### Publications
