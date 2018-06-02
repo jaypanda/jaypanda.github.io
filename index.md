@@ -4,10 +4,10 @@ I work in AI and deep learning, particularly in the domain of computer vision. C
 
 Previously, I co-founded [Wazzat Labs](https://wazzatlabs.com), a visual recognition startup, particularly focused on solving problems in fashion retail. I worked with [Dr. C. V. Jawahar](https://faculty.iiit.ac.in/~jawahar/) during my MS by Research at [IIIT Hyderabad](https://www.iiit.ac.in/) and also during the journey at Wazzat Labs.
 
-### Experience and Project Highlights
+### Work Experience - Project Highlights
 - **Visual Intelligence at xpresso.ai**
   - Led research and development of visual intelligence engine for multi-platform conversational bots.
-  - Demo Videos | Jan to Aug 2017
+  - Demo Videos (click to play in Youtube), Jan to Aug 2017
     - Visual intelligence on FB messenger chatbot.
     [![demo-video-5](http://img.youtube.com/vi/eoNM1pIeRl8/0.jpg)](https://youtu.be/eoNM1pIeRl8)
 
@@ -21,7 +21,9 @@ Previously, I co-founded [Wazzat Labs](https://wazzatlabs.com), a visual recogni
      [![demo-video-3](http://img.youtube.com/vi/GSoSFrIBWlo/0.jpg)](https://youtu.be/GSoSFrIBWlo)
     - AR for automobile repair guide (click to play in Youtube), Jan to Mar 2014
     [![demo-video-4](http://img.youtube.com/vi/6wNbNedBBVE/0.jpg)](https://youtu.be/6wNbNedBBVE)
-    
+- **MASTER's Thesis**
+  - [Instance Retrieval and Image Auto-Annotations on Mobile Devices](docs/JayThesis.pdf)
+    - Mobile instance retrieval requires a significant reduction in the visual search index and relevant optimization in efficient real-time image processing for feature extraction and search. To achieve this, we describe a set of strategies that can reduce the visual index up to 150 × compared to a standard implementation of the instance retrieval solution, popularly implemented on desktops or servers. While these reduction steps affect the overall mean Average Precision (mAP), they are able to maintain a good Precision for the top K results (P_K ). We argue that for such offline application, maintaining a good P_K is sufficient. The effectiveness of this approach is demonstrated on several standard databases.
     
 
 ### Publications
