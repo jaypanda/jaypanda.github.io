@@ -1,5 +1,4 @@
 ## About Me
-[Resume](https://www.visualcv.com/jpanda/pdf/)
 
 I currently work with Amazon at Hyderabad, India. My work is primarily focused on building and scaling machine learning/deep learning solutions specifically for use-cases in computer vision. Prior to joining Amazon, I led the computer vision group at [Abzooba, Inc.](https://xpresso.ai) where I worked on developing enterprise solutions in AI. 
 
