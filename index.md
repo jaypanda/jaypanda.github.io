@@ -3,6 +3,7 @@
 I currently work with Amazon at Hyderabad, India. My work is primarily focused on building and scaling machine learning/deep learning solutions specifically for use-cases in computer vision. Prior to joining Amazon, I led the computer vision group at [Abzooba, Inc.](https://xpresso.ai) where I worked on developing enterprise solutions in AI.
 
 Previously, I co-founded [Wazzat Labs](https://wazzatlabs.com), a visual recognition startup, particularly focused on solving problems in fashion retail. I worked with [Dr. C. V. Jawahar](https://faculty.iiit.ac.in/~jawahar/) during my MS by Research at [IIIT Hyderabad](https://www.iiit.ac.in/) and also during the journey at Wazzat Labs.
+For more details, please find my [Resume here](https://www.visualcv.com/jpanda/pdf/)
 
 ### Work Experience - Project Highlights
 - **Visual Intelligence at xpresso.ai**
